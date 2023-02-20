@@ -3,4 +3,4 @@ b = int(input('Введіть число на яке хочете помножи
 sum_=0
 for i in range(b):
     sum_+=a
-print(sum_)
+    print(sum_)
