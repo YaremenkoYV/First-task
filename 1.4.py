@@ -1,7 +1,6 @@
 a = int(input('Введіть число яке хочете поділити: '))
 b = int(input('Введіть число на яке хочете поділити: '))
 sum_=a
-print(sum_)
 for i in range(a):
     sum_=sum_-b
 
